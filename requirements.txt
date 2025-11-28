@@ -1,0 +1,5 @@
+whisper
+moviepy==1.0.3
+streamlit
+ffmpeg
+srt #subtitles
